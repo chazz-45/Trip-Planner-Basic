@@ -54,10 +54,10 @@ def ask_agent(agent: ChatAgent, prompt: str) -> str:
 
 # ---------- Streamlit UI ----------
 
-st.set_page_config(page_title="AI Trip Planner", page_icon="🧳", layout="centered")
+st.set_page_config(page_title="Chazz Trip Planner", page_icon="🧳", layout="centered")
 
-st.title("🧳 AI Trip Planner")
-st.caption("Powered by CAMEL AI")
+st.title("🧳 Chazz Trip Planner")
+st.caption("Powered by Tech Titans")
 
 # Session state to hold chat history and the agent
 if "agent" not in st.session_state:
