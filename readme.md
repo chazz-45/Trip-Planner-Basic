@@ -23,7 +23,7 @@ An intelligent AI-powered Trip Planner that generates personalized travel itiner
 
 🚀 Installation
 
-git clone https://github.com/your-username/Trip-Planner-Basic.git
+git clone https://github.com/chazz-45/Trip-Planner-Basic.git
 cd Trip-Planner-Basic
 pip install -r requirements.txt
 
@@ -36,16 +36,11 @@ streamlit run app.py
 📂 Project Structure
 
 Trip-Planner-Basic
-│── app.py
-│── requirements.txt
-│── README.md
-│── assets/
-│── modules/
-└── ...
-
-📸 Screenshots
-
-Add screenshots of your application here.
+app.py
+requirements.txt
+README.md
+assets
+modules
 
 🎯 Future Improvements
 
